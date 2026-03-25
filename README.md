@@ -25,4 +25,4 @@ This repository contains a comprehensive machine learning tutorial focusing on t
 ## 🚀 How to Run the Code
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Spotify-Popularity-RandomForest.git](https://github.com/YOUR_USERNAME/Spotify-Popularity-RandomForest.git)
+   git clone (https://github.com/Arsalan-Rehman/Spotify-Popularity-RandomForest/tree/main)
